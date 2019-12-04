@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
              <key>bundle-identifier</key>
-             <string></string>
+             <string>mingling.KKGameSDKDemo</string>
              <key>bundle-version</key>
              <string></string>
              <key>kind</key>
@@ -25,7 +25,7 @@
              <key>subtitle</key>
              <string></string>
              <key>title</key>
-             <string>一剑诛仙</string>
+             <string>SDK-Demo</string>
             </dict>
            </dict>
           </array>
